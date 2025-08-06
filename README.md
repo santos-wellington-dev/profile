@@ -35,5 +35,5 @@
 
 #### Contato: <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/w-santos1334/) <br>
-<p style="color: white";> <b> Email: <b> <i> well.santos1334@gmail.com <i> <p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-santos-dev/) <br>
+<p style="color: white";> <b> Email: <b> <i> santos.wellington.dev@gmail.com <i> <p>
