@@ -3,7 +3,7 @@
 #### Sobre
 <p> Apaixonado pela área de desenvolvimento, onde comecei a conhecer quando fiz um curso técnico na área, e em pouco tempo já consegui me destacar. Ao final do curso, consegui juntamente com minha equipe vencer a feira anual, tanto em avaliações do público quanto a dos professores. Hoje minha principal linguagem é NodeJS, onde acumulo grandes partes das minhas horas de estudos focado nela, progredindo dia-dia. <p>
 
-![wellSantos1334 GitHub stats](https://github-readme-stats.vercel.app/api?username=wellSantos1334&show_icons=true&theme=merko)
+![wellSantos1334 GitHub stats](https://github-readme-stats.vercel.app/api?username=santos-wellington-dev&show_icons=true&theme=merko)
 
 ## Tecnologias
 
